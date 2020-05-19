@@ -12,7 +12,7 @@ function setCart(c) {
 function addToCart(item) {
  // write your code here
  function getItemPrice(){
-   return 
+   return Math.floor(Math.random() * Math.floor(max));
  }
  var cartContent = {item: `${getItemPrice}`}
 }
