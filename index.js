@@ -11,6 +11,10 @@ function setCart(c) {
 
 function addToCart(item) {
  // write your code here
+ function getItemPrice(){
+   return 
+ }
+ var cartContent = {item: `${getItemPrice}`}
 }
 
 function viewCart() {
